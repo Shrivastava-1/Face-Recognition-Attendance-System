@@ -92,4 +92,4 @@ File name should be the <strong>student’s name or enrollment number</strong>, 
 <p><em>(Add a screenshot of the webcam window with rectangle & name showing.)</em></p>
 
 <h2>👨‍💻 Author</h2>
-<p>Made with ❤️ by <a href="https://github.com/yourusername" target="_blank">Your Name</a></p>
+<p>Made with ❤️ by <a href="https://github.com/Shrivastava-1" target="_blank"> Chitransh</a></p>
