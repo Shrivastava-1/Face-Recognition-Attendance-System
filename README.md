@@ -1,6 +1,6 @@
 <h1>📸 Face Recognition Attendance System</h1>
 
-<p>This project is a <strong>Face Recognition-based Attendance System</strong> developed using Python, OpenCV, and the <code>face_recognition</code> library. It uses your webcam to recognize pre-registered students and automatically marks their attendance in a dated CSV file.</p>
+<p>This project is a <strong>Face Recognition-based Attendance System</strong> developed using Python, OpenCV, and the <code>face_recognition</code> library. It uses your webcam to recognize pre-registered students and automatically marks their attendance in a dated CSV file. Technologies Used: Python, OpenCV, face_recognition, NumPy, CSV, Pickle, Webcam Integration</p>
 
 <h2>🚀 Features</h2>
 <ul>
